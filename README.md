@@ -3,8 +3,16 @@
 
 ---
 
-### About me:
-I am a novice Python developer. My journey began at the university, where my first language was C/C++. After that, we smoothly moved on to Java and Python, in 2021 I went to a C# language training by EPAM, where I met .NET Framework, however, my soul belonged to Python, I read a couple of books on algorithms and the basics of the Python language and began my journey into the world of IT! 
+<table align= "center"><tr><td valign="top" width="25%">
+<div align="leftr"> 
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+</div>
+</td><td valign="top" width="50%">
+  
+<div align="left" > - 👀 About me:<br>
+I am a novice Python developer. My journey began at the university, where my first language was C/C++. After that, we smoothly moved on to Java and Python, in 2021 I went to a C# language training by EPAM, where I met .NET Framework, however, my soul belonged to Python, I read a couple of books on algorithms and the basics of the Python language and began my journey into the world of IT! </div> 
+</td></tr></table> 
+
 
 - 🤯 I’m currently studying Python and Django framework  
   
@@ -21,10 +29,9 @@ I am a novice Python developer. My journey began at the university, where my fir
 ---
 
 ## My Skill Set:  
+
 <table align= "center"><tr><td valign="top" width="33%">
-
-
-
+  
 ### <div align="center">-Frontend-</div> 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>  
@@ -34,8 +41,6 @@ I am a novice Python developer. My journey began at the university, where my fir
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### <div align="center">-Backend-</div>  
 <div align="center">  
@@ -109,4 +114,4 @@ I am a novice Python developer. My journey began at the university, where my fir
   </tr>
 </table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MrSoulfinder&custom_title=This%20is%20my%20activity&theme=merko&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MrSoulfinder&custom_title=--%20This%20is%20my%20activity%20--&theme=merko&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
