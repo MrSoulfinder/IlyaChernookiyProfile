@@ -1,10 +1,8 @@
-<div align="center">
-<img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Ilya, a future Python Developer! At the moment I'm improving my skills and looking for a job! 💻🔎</div>  
 <br>
+
+
+
 
 ### About me:
 I am a novice Python developer. My journey began at the university, where my first language was C/C++. After that, we smoothly moved on to Java and Python, in 2021 I went to a C# language training by EPAM, where I met .NET Framework, however, my soul belonged to Python, I read a couple of books on algorithms and the basics of the Python language and began my journey into the world of IT! 
@@ -19,13 +17,12 @@ I am a novice Python developer. My journey began at the university, where my fir
   
 
 - ⚡ Random fact: I studied Chinese for two years  
-  
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align= "center"><tr><td valign="top" width="33%">
 
 
 
@@ -85,10 +82,7 @@ I am a novice Python developer. My journey began at the university, where my fir
 </a>
 <a href="https://vk.com/pupsoid341" target="_blank">
 <img src=https://img.shields.io/badge/vk-%231E77B5.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
-</a> 
 </div>  
-  
-
 <br/>  
 
 ## Codewars
