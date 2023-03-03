@@ -32,7 +32,7 @@ I am a novice Python developer. My journey began at the university, where my fir
 
 <table align= "center"><tr><td valign="top" width="33%">
   
-### <div align="center">-Frontend-</div> 
+### <div align="center">Frontend</div> 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>  
@@ -42,7 +42,7 @@ I am a novice Python developer. My journey began at the university, where my fir
 
 </td><td valign="top" width="33%">
 
-### <div align="center">-Backend-</div>  
+### <div align="center">Backend</div>  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>    
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" /></a>  
@@ -55,7 +55,7 @@ I am a novice Python developer. My journey began at the university, where my fir
 
 
 
-### <div align="center">-DevOps-</div>  
+### <div align="center">DevOps</div>  
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>  
