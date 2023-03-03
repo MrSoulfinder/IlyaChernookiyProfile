@@ -67,7 +67,7 @@ I am a novice Python developer. My journey began at the university, where my fir
 
 ---
 
-## Connect with me  
+## Connect with me:
 <div align="center">
 <a href="https://instagram.com/https://www.instagram.com/_just_miracle_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -87,14 +87,18 @@ I am a novice Python developer. My journey began at the university, where my fir
   
 ---
   
-## Codewars
+## Code Practice:
 
+- 🎮 Codewars:<br><br>
 ![codewars](https://www.codewars.com/users/MrSoulfinder/badges/large)
-<br>
-- 🏆 A little more and all the tasks will be solved!
+- 📚 Leetcode:<br><br>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bez_dushi&theme=dark)](https://github.com/MrSoulfinder/leetcode-stats)</div>
 
-## Github Stats  
-<table>
+- 😋 As they say, I can show what a good fellow I am, but I don't get around to solving!
+- 🏆 A little more and all the tasks will be solved, honestly!<br>
+
+## Github Stats:  
+<table align="center">
   <tr>
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MrSoulfinder&theme=dark&background=000000" alt="My Github Stats" />
@@ -104,4 +108,5 @@ I am a novice Python developer. My journey began at the university, where my fir
     </td>
   </tr>
 </table>
-<br/>  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MrSoulfinder&custom_title=This%20is%20my%20activity&theme=merko&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
