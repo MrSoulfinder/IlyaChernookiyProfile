@@ -4,7 +4,10 @@
   
 
 ### <div align="center">I'm Ilya, a future Python Developer! At the moment I'm improving my skills and looking for a job! 💻🔎</div>  
-  
+<br>
+
+### About me:
+I am a novice Python developer. My journey began at the university, where my first language was C/C++. After that, we smoothly moved on to Java and Python, in 2021 I went to a C# language training by EPAM, where I met .NET Framework, however, my soul belonged to Python, I read a couple of books on algorithms and the basics of the Python language and began my journey into the world of IT! 
 
 - 🤯 I’m currently studying Python and Django framework  
   
@@ -76,14 +79,32 @@
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ilya-chernookiy-b5b42b258/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a href="https://t.me/itisfrusty" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+<a href="https://vk.com/pupsoid341" target="_blank">
+<img src=https://img.shields.io/badge/vk-%231E77B5.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
+</a> 
 </div>  
   
 
 <br/>  
 
+## Codewars
+
+![codewars](https://www.codewars.com/users/MrSoulfinder/badges/large)
+<br>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrSoulfinder&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MrSoulfinder&theme=dark&background=000000" alt="My Github Stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="My Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrSoulfinder&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 <br/>  
