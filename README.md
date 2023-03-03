@@ -102,6 +102,8 @@ I am a novice Python developer. My journey began at the university, where my fir
 - 😋 As they say, I can show what a good fellow I am, but I don't get around to solving!
 - 🏆 A little more and all the tasks will be solved, honestly!<br>
 
+---
+
 ## Github Stats:  
 <table align="center">
   <tr>
