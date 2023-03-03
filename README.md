@@ -9,7 +9,7 @@
 </div>
 </td><td valign="top" width="50%">
   
-<div align="left" > - 👀 About me:<br>
+<div align="left" > 👀 About me:<br>
 I am a novice Python developer. My journey began at the university, where my first language was C/C++. After that, we smoothly moved on to Java and Python, in 2021 I went to a C# language training by EPAM, where I met .NET Framework, however, my soul belonged to Python, I read a couple of books on algorithms and the basics of the Python language and began my journey into the world of IT! </div> 
 </td></tr></table> 
 
