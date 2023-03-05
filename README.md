@@ -11,17 +11,11 @@
   
 <div align="left" > 👀 About me:<br>
 I am a novice Python developer. My journey began at the university, where my first language was C/C++. After that, we smoothly moved on to Java and Python, in 2021 I went to a C# language training by EPAM, where I met .NET Framework, however, my soul belonged to Python, I read a couple of books on algorithms and the basics of the Python language and began my journey into the world of IT! </div> 
-</td></tr></table> 
-
-
-- 🤯 I’m currently studying Python and Django framework  
+</td></tr></table>    
   
-
 - 🎯 I’m currently learning RabbitMQ and Kubernetes  
-  
 
 - ❓ Very interested in the development of artificial intelligence  
-  
 
 - ⚡ Random fact: I studied Chinese for two years  
 
