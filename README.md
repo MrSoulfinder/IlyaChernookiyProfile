@@ -1,5 +1,5 @@
 
-# <div align="center">Hi 👋 I'm Ilya, a future Python Developer! At the moment I'm improving my skills and looking for a job! 💻🔎</div>  
+# <div> Hi 👋 I'm Ilya, a future Python Developer!</div>  
 
 ---
 
@@ -13,6 +13,8 @@
 I am a novice Python developer. My journey began at the university, where my first language was C/C++. After that, we smoothly moved on to Java and Python, in 2021 I went to a C# language training by EPAM, where I met .NET Framework, however, my soul belonged to Python, I read a couple of books on algorithms and the basics of the Python language and began my journey into the world of IT! </div> 
 </td></tr></table>    
   
+- 🔎 At the moment I'm improving my skills and looking for a job! 
+
 - 🎯 I’m currently learning RabbitMQ and Kubernetes  
 
 - ❓ Very interested in the development of artificial intelligence  
