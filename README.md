@@ -72,7 +72,7 @@
 <a href="https://t.me/itisfrusty" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-<a href=" https://discordapp.com/users/699595208924594207/" target="_blank">
+<a href="https://discord.gg/nPfEzQqFGC" target="_blank">
 <img src=https://img.shields.io/badge/discrord-purple.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 <a href="https://vk.com/pupsoid341" target="_blank">
