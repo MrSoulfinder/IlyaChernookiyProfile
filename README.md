@@ -104,5 +104,3 @@
     </td>
   </tr>
 </table>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MrSoulfinder&custom_title=--%20This%20is%20my%20activity%20--&theme=merko&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
