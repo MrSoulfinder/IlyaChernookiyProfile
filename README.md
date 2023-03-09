@@ -1,17 +1,7 @@
 
 # <div> Hi 👋 I'm Ilya, a future Python Developer!</div>  
 
----
-
-<table align= "center"><tr><td valign="top" width="25%">
-<div align="leftr"> 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
-</div>
-</td><td valign="top" width="50%">
-  
-<div align="left" > 👀 About me:<br>
-I am a novice Python developer. My journey began at the university, where my first language was C/C++. After that, we smoothly moved on to Java and Python, in 2021 I went to a C# language training by EPAM, where I met .NET Framework, however, my soul belonged to Python, I read a couple of books on algorithms and the basics of the Python language and began my journey into the world of IT! </div> 
-</td></tr></table>    
+--- 
   
 - 🔎 At the moment I'm improving my skills and looking for a job! 
 
@@ -82,10 +72,13 @@ I am a novice Python developer. My journey began at the university, where my fir
 <a href="https://t.me/itisfrusty" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
+<a href=" https://discordapp.com/users/699595208924594207/" target="_blank">
+<img src=https://img.shields.io/badge/discrord-purple.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
 <a href="https://vk.com/pupsoid341" target="_blank">
 <img src=https://img.shields.io/badge/vk-%231E77B5.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
 </div>  
-  
+ 
 ---
   
 ## Code Practice:
