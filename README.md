@@ -66,7 +66,7 @@
 <a href="https://github.com/https://github.com/MrSoulfinder" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/ilya-chernookiy/](https://www.linkedin.com/in/ilya-chernookiy/)" target="_blank">
+<a href="https://www.linkedin.com/in/ilya-chernookiy-b5b42b258/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <a href="https://t.me/itisfrusty" target="_blank">
