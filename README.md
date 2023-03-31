@@ -1,20 +1,13 @@
 
-# <div> Hi 👋 I'm Ilya, a future Python Developer!</div>  
+### <div> Hi 👋 I'm Ilya, a future Python Developer!</div>  
 
---- 
-  
-- 🔎 At the moment I'm improving my skills and looking for a job! 
-
-- 🎯 I’m currently learning RabbitMQ and Kubernetes  
-
-- ❓ Very interested in the development of artificial intelligence  
-
-- ⚡ Random fact: I studied Chinese for two years  
+🔎 At the moment I'm improving my skills and looking for a job <br>
+🎯 I’m currently learning RabbitMQ and Kubernetes <br>
+❓ Very interested in the development of artificial intelligence <br>
+⚡ Random fact: I studied Chinese for two years <br>
 
 
----
-
-## My Skill Set:  
+### My Skill Set:  
 
 <table align= "center"><tr><td valign="top" width="33%">
   
@@ -39,8 +32,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### <div align="center">DevOps</div>  
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" /></a>  
@@ -54,11 +45,10 @@
   
 </td></tr></table> 
 
-- 🎈 Remark: I will not say that I am an expert in all the areas presented, but I have worked with them at a certain level and have an idea for what and how it works! In addition, I happened to write applications for the aAdroid platform in Java, moreover, to the presented database, a also work with MS SQL amd PostgreSQL.
+🎈 Remark: I will not say that I am an expert in all the areas presented, but I have worked with them at a certain level and have an idea for what and how it works! In addition, I happened to write applications for the Adroid platform in Java, moreover, to the presented database, a also work with MS SQL amd PostgreSQL.
 
----
 
-## Connect with me:
+### Connect with me: 
 <div align="center">
 <a href="https://instagram.com/https://www.instagram.com/_just_miracle_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -78,22 +68,8 @@
 <a href="https://vk.com/pupsoid341" target="_blank">
 <img src=https://img.shields.io/badge/vk-%231E77B5.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
 </div>  
- 
----
-  
-## Code Practice:
 
-- 🎮 Codewars:<br><br>
-![codewars](https://www.codewars.com/users/MrSoulfinder/badges/large)
-- 📚 Leetcode:<br><br>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=bez_dushi&theme=dark)](https://github.com/MrSoulfinder/leetcode-stats)</div>
-
-- 😋 As they say, I can show what a good fellow I am, but I don't get around to solving!
-- 🏆 A little more and all the tasks will be solved, honestly!<br>
-
----
-
-## Github Stats:  
+### Github Stats:  
 <table align="center">
   <tr>
     <td>
