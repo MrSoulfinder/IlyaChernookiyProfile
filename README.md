@@ -1,10 +1,10 @@
 
 ### <div> Hi 👋 I'm Ilya, a future Python Developer!</div>  
 
-🔎 At the moment I'm improving my skills and looking for a job <br>
-🎯 I’m currently learning RabbitMQ and Kubernetes <br>
-❓ Very interested in the development of artificial intelligence <br>
-⚡ Random fact: I studied Chinese for two years <br>
+- 🔎 At the moment I'm improving my skills and looking for a job <br>
+- 🎯 I’m currently learning RabbitMQ and Kubernetes <br>
+- ❓ Very interested in the development of artificial intelligence <br>
+- ⚡ Random fact: I studied Chinese for two years <br>
 
 
 ### My Skill Set:  
