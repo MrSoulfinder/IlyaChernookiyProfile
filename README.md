@@ -41,7 +41,7 @@
   
 </td></tr></table> 
 
-🎈 Remark: I will not say that I am an expert in all the areas presented, but I have worked with them at a certain level and have an idea for what and how it works! In addition, I happened to write applications for the Adroid platform in Java, moreover, to the presented database, a also work with MS SQL amd PostgreSQL.
+🎈 Remark: I will not say that I am an expert in all the areas presented, but I have worked with them at a certain level and have an idea for what and how it works! In addition, I happened to write applications for the Adroid platform in Java, moreover, to the presented database.
 
 
 ### Connect with me: 
