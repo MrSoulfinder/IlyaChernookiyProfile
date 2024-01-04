@@ -43,8 +43,6 @@
 
 🎈 Remark: I will not say that I am an expert in all the areas presented, but I have worked with them at a certain level and have an idea for what and how it works! In addition, I happened to write applications for the Adroid platform in Java, moreover, to the presented database.
 
-
-### Connect with me: 
 ### Connect with me:
 <div align="center">
   <a href="https://www.instagram.com/_just_miracle_" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
