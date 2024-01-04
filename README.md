@@ -49,7 +49,7 @@
 <a href="https://www.instagram.com/_just_miracle_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/MrSoulfinder" target="_blank">
+<a href="https://github.com/itisfrusty" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/ilya-chernookiy-b5b42b258/" target="_blank">
