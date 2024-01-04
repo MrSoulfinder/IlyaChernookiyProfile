@@ -57,7 +57,8 @@
 
 
 ### Github Stats:  
-<table align="center">
+
+<table align="center" border="0">
   <tr>
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=itisfrusty&theme=dark&background=000000" alt="My Github Stats" />
