@@ -45,25 +45,16 @@
 
 
 ### Connect with me: 
-<div align="center" >
-<a href="https://www.instagram.com/_just_miracle_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/itisfrusty" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/ilya-chernookiy-b5b42b258/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
-<a href="https://t.me/ko_odium" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.gg/nPfEzQqFGC" target="_blank">
-<img src=https://img.shields.io/badge/discrord-purple.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>
-<a href="https://vk.com/pupsoid341" target="_blank">
-<img src=https://img.shields.io/badge/vk-%231E77B5.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
-</div>  
+### Connect with me:
+<div align="center">
+  <a href="https://www.instagram.com/_just_miracle_" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a>
+  <a href="https://github.com/itisfrusty" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+  <a href="https://www.linkedin.com/in/ilya-chernookiy-b5b42b258/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> 
+  <a href="https://t.me/ko_odium" target="_blank"><img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" /></a>
+  <a href="https://discord.gg/nPfEzQqFGC" target="_blank"><img src=https://img.shields.io/badge/discrord-purple.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" /></a>
+  <a href="https://vk.com/pupsoid341" target="_blank"><img src=https://img.shields.io/badge/vk-%231E77B5.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" /></a>
+</div>
+
 
 ### Github Stats:  
 <table align="center">
