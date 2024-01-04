@@ -69,10 +69,10 @@
 <table align="center">
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MrSoulfinder&theme=dark&background=000000" alt="My Github Stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=itisfrusty&theme=dark&background=000000" alt="My Github Stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="My Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrSoulfinder&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="My Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itisfrusty&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
